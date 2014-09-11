@@ -11,9 +11,11 @@ Create a sub-directory called "_inc" and place the following three .js files in 
     mapmaker.js
     singlemapmaker.js
     leaflet-providers.js
-Zip up the directory into a .zip extension file
+zip up the directory into a .zip extension file
 Upload it via the Dashboard>Plugins>Install New>Upload User Interface in WordPress
 
-We recommend using the Appliance WordPress Theme as a baseline to get started with and using the WordPress iPhone and Android applications to do data collections. 
+This plug-in works with the "Appliance" WordPress Theme by Emily Conway (http://www.applymedia.co.uk/appliance/). It is a baseline theme to you get started. Appliance is a clean and minimalist theme that is ideal for blogs / magazines / portfolios. It's spacious, minimalist, clean, light and very fast to load. 
+
+We use the WordPress iPhone and Android applications to do data collections and posting directly to the site. 
 
 
