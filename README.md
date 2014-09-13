@@ -12,10 +12,15 @@ Create a sub-directory called "_inc" and place the following three .js files in 
     singlemapmaker.js
     leaflet-providers.js
 zip up the directory into a .zip extension file
-Upload it via the Dashboard>Plugins>Install New>Upload User Interface in WordPress
+Upload it via the Dashboard>Plugins>Install New>Upload
+
+Then insall the "Appliance" theme via the Dashboard>Appearance>Search on "Appliance"
 
 This plug-in works with the "Appliance" WordPress Theme by Emily Conway (http://www.applymedia.co.uk/appliance/). It is a baseline theme to you get started. Appliance is a clean and minimalist theme that is ideal for blogs / magazines / portfolios. It's spacious, minimalist, clean, light and very fast to load. 
 
-We use the WordPress iPhone and Android applications to do data collections and posting directly to the site. 
+We use the WordPress iPhone and Android applications to do data collections and posting directly to the site.
+
+
+
 
 
